@@ -1,1 +1,1 @@
-Hello Sreyasi...Wellcome to the world of Devops..
+Hello Sreyasi...Welcome to the world of Devops..
